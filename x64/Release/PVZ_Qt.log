@@ -1,0 +1,4 @@
+﻿  GameScene.cpp
+c:\users\satellite\source\repos\pvz_qt\pvz_qt\zombie.h(10): warning C4005: “ONE_FRAME”: 宏重定义
+  c:\users\satellite\source\repos\pvz_qt\pvz_qt\plant.h(11): note: 参见“ONE_FRAME”的前一个定义
+  PVZ_Qt.vcxproj -> C:\Users\Satellite\source\repos\PVZ_Qt\x64\Release\PVZ_Qt.exe
